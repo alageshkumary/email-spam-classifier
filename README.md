@@ -83,4 +83,4 @@ Both KNN and Naïve Bayes models were implemented and compared. The performance 
 ---
 
 ## 👤 Author
-- Your Name
+- Wijepala Alageshwary Kumary
